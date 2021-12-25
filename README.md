@@ -1,7 +1,7 @@
 # K-Nearest-Neighbor Classification-ML
  Implemented KNN in Python
 
-### Part 1: K-Nearest Neighbors Classification
+### K-Nearest Neighbors Classification
 
 In machine learning world, K-Nearest Neighbors Classification model has prominent role.
 My approach to this problem is there are two different metrics used to calculate distance for the features of the dataset.
